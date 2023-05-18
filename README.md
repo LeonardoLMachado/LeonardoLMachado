@@ -9,6 +9,10 @@
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LeonardoLMachado&theme=gotham)
 
+<div align="center">  
+<a href="https://www.linkedin.com/in/leonardolmachado/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+</div>
+
 ### Main skills:
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=F06529&labelColor=0D1117)&nbsp;
